@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Philosopher:wght@400;700&display=swap');
+
+@import url('https://unpkg.com/boxicons@2.1.2/css/boxicons.min.css'); /* body {
+  background-image: url('/assets/bg.svg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+} */
